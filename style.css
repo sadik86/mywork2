@@ -1,0 +1,52 @@
+.buy-now{
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+    height: 50px;
+    width: 100px;
+}
+.back1{
+    background-image: url(bg-2.png);
+    background-repeat: no-repeat;
+    margin: 0;
+}
+.back2{
+    background-image: url(bg-1.png);
+    background-repeat: no-repeat;
+
+}
+.phonee{
+    border-radius: 10px;
+}
+
+.cat1, .cat2, .cat3{
+    padding: 10px 30px;
+    border-radius: 50px;
+  
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgrey;
+}
+.bb{
+    padding: 20px 20px;
+
+}
+.last{
+    border: none;
+    box-shadow: 5px 5px 10px lightgrey;
+
+}
+
+.sad{
+    padding:100px 50px 100px 50px;
+}
+.ghjk{
+    padding-bottom: 100px;
+
+}
+.sad{
+    border: none;
+    box-shadow: 5px 5px 10px lightgrey;
+}
+
