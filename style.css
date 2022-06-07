@@ -32,15 +32,8 @@
     padding: 20px 20px;
 
 }
-.last{
-    border: none;
-    box-shadow: 5px 5px 10px lightgrey;
 
-}
 
-.sad{
-    padding:100px 50px 100px 50px;
-}
 .ghjk{
     padding-bottom: 100px;
 
@@ -48,5 +41,13 @@
 .sad{
     border: none;
     box-shadow: 5px 5px 10px lightgrey;
+    padding: 33.33%%;
 }
-
+.psd{
+    
+    padding-top: 100px;
+}
+.foott{
+    align-items: center;
+    color: red;
+}
